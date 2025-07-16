@@ -21,3 +21,4 @@ In this Power BI dashboard, I explored and visualized key metrics for a hospital
 * Business Intelligence Storytelling
 
 📌 **Use Case:** Ideal for hotel managers, revenue analysts, and decision-makers to optimize room pricing and enhance guest satisfaction.
+
